@@ -7,7 +7,7 @@ metadata:
   tags:
     - lqs
     - bff
-    - nodeJS
+    - nodejs
   links:
     - url: https://github.com/dx-ex/circleci-demo-javascript-express
       title: Repo
