@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lqs-be-bff-service
+  # This is an extra long description
+  description: The is an example of LQS BE BFF Service entity
+  tags:
+    - lqs
+    - bff
+    - nodeJS
+  links:
+    - url: https://github.com/dx-ex/circleci-demo-javascript-express
+      title: Repo
+      icon: github
+  annotations:
+    circleci.com/project-slug: github.com/dx-ex/circleci-demo-javascript-express
+    github.com/project-slug: dx-ex/circleci-demo-javascript-express
+
+spec:
+  type: service
+  lifecycle: production
+  owner: team-AU-BE
+  system: LQS
+  providesApis:
+    - bff-hello-world
