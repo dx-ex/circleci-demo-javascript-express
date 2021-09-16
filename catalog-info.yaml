@@ -14,7 +14,6 @@ metadata:
       icon: github
   annotations:
     circleci.com/project-slug: github.com/dx-ex/circleci-demo-javascript-express
-    github.com/project-slug: dx-ex/circleci-demo-javascript-express
 
 spec:
   type: service
