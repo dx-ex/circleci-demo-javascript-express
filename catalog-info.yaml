@@ -13,7 +13,7 @@ metadata:
       title: Repo
       icon: github
   annotations:
-    circleci.com/project-slug: github.com/dx-ex/circleci-demo-javascript-express
+    circleci.com/project-slug: github/dx-ex/circleci-demo-javascript-express
 
 spec:
   type: service
