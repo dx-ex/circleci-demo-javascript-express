@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: lqs-be-bff-service
   # This is an extra long description
-  description: The is an example of LQS BE BFF Service entity
+  description: The is an example of LQS BE BFF Service entity def
   tags:
     - lqs
     - bff
